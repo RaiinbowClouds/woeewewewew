@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x775873d4ed5f70ce38c7e0610a6eda0b0dafadfd",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xb2b6b68d84002af1934c365a67004997301ec11b17eeddad424381afd09bd973",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rainbowclouds test",
+  "SYMBOL": "RCNFTtest",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rainbowclouds-v4",
+  "SHOW_BACKGROUND": true
+}
